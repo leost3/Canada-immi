@@ -1,6 +1,5 @@
-import { Main } from 'components/Main'
 import React from 'react'
 
 export default function Home() {
-  return <Main />
+  return <h1>Hello world</h1>
 }

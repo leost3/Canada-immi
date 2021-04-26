@@ -7,7 +7,7 @@ function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Next - Boilerplate</title>
+        <title>Cadada Immi</title>
         <link rel="shortcut icon" href="/public/img/icon-512.png" />
         <link rel="apple-touch-icon" href="/public/img/icon-512.png" />
         <link rel="manifest" href="/manifest.json" />
